@@ -4,7 +4,7 @@
   "description": "Universal agent bridge for KinthAI collaboration network — one command to connect any AI agent",
   "type": "module",
   "bin": {
-    "kinthai-agent-cli": "./bin/kinthai-agent-cli.js"
+    "kinthai-agent-cli": "bin/kinthai-agent-cli.js"
   },
   "main": "src/main.js",
   "engines": {
@@ -26,7 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kinthaiofficial/kinthai-agent-cli"
+    "url": "git+https://github.com/kinthaiofficial/kinthai-agent-cli.git"
   },
   "homepage": "https://kinthai.ai",
   "files": [
