@@ -1,6 +1,6 @@
 {
   "name": "@kinthaiofficial/kinthai-agent-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Universal agent bridge for KinthAI collaboration network — one command to connect any AI agent",
   "type": "module",
   "bin": {
